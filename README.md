@@ -14,6 +14,7 @@ An advanced, open-source computer vision and spatial analysis framework designed
 ---
 
 ## 🛠 Key Architecture Modules
+<img width="1602" height="859" alt="image_2026-07-23_20-35-53" src="https://github.com/user-attachments/assets/2d7b1742-526e-4c4a-b8ab-2247d38f5bfb" />
 
 ### 01. Combat & Targeting Mechanics
 * **Target Hitbox & Analysis Zone:** Configurable target selection algorithms with precision head/body priority locks.
