@@ -2,6 +2,12 @@
 <img width="1202" height="622" alt="image" src="https://github.com/user-attachments/assets/99bcac08-4f37-4525-b133-288a8fbb10e0" />
 
 
+<p center>
+  <a href="https://github.com/HunterDevops/Minecraft-ToolKit-Skyblock/releases">
+    <img src="https://img.shields.io/badge/DOWNLOAD-LATEST_RELEASE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release" height="45">
+  </a>
+  </p>
+
 ![Version](https://img.shields.io/badge/version-v4.1.2_PRO-purple?style=for-the-badge)
 ![JVM Active](https://img.shields.io/badge/JVM_GC-Responsiveness_0.8ms-brightgreen?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-JVM_Hooks_%26_Voxel_Modeling-blue?style=for-the-badge)
